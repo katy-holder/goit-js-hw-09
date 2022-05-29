@@ -29,6 +29,7 @@
     "@vimeo/player": "^2.16.4",
     "flatpickr": "^4.6.13",
     "lodash.throttle": "^4.1.1",
+    "notiflix": "^3.2.5",
     "simplelightbox": "^2.10.3",
     "throttle": "^1.0.3"
   }
