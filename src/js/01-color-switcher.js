@@ -6,7 +6,7 @@ const stopClick = document.querySelector('[data-stop]');
 
 startClick.addEventListener('click', onClick);
 stopClick.addEventListener('click', offClick);
-
+stopClick.disabled = true;
 function onClick() {
     if (stopClick) {
         startClick.disabled = true;
